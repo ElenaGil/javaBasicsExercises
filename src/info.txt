@@ -1,1 +1,2 @@
 „Mein Git-Projekt“
+Kleine Änderung
